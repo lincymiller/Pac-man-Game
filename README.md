@@ -11,3 +11,4 @@ The main game loop - This is where the game is played. The game is played in a w
 a. Print the screen - The game screen is printed as a 5x5 grid of characters. The characters are either dots (.) or the letter "P" which represents Pac-Man. The location of Pac-Man on the screen is determined by the x and y instance variables of the PacMan object.
 b. Get player input - The player is prompted to enter a move (left, right, up, down, or quit).
 c. Move Pac-Man or end the game - Depending on the player's input, Pac-Man is moved in the appropriate direction or the game is ended by setting the game_over flag to True. If the game is over, the message "Game Over" is printed.
+💜
